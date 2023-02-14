@@ -20,7 +20,7 @@
     "graphql-tag": "^2.11.0",
     "ra-data-hasura": "^0.1.0",
     "react": "^16.13.1",
-    "react-admin": "^3.6.0",
+    "react-admin": "^3.19.12",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
